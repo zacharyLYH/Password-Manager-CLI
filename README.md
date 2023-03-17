@@ -1,5 +1,5 @@
 # Password-Manager
-A full stack Golang password manager that uses a CLI Golang frontend, a Golang backend, and MongoDB database. The frontend will be containerized using Docker and the backend hosted on a free hosting service. Currently in development.
+A full stack Golang password manager that uses a CLI Golang frontend, a Golang backend, and MongoDB database. This is the frontend portion of a 2 part Password Manager Web app. The backend of this web server can be found [here](https://github.com/zacharyLYH/Password-Manager-Server).
 
 # Just another iteration of a password manager? 
 Kinda. The motivation behind this project was personal; I was looking for a free web hosted password manager but the ones I found that were web hosted required a monthly subscription. While it is indeed just another password manager, the intention of this project is to build an open source, web hosted, and most importantly ***secure*** password manager. If a password manager is not so much what you desire, with the way this project is built you may extrapolate the secure features of this project to build whatever you need - digital notes, a digital vault etc. 
